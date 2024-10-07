@@ -9,7 +9,7 @@ Hi there👋
    -💃 Fun fact: *Cooding* 
 
 ## 📖 About Me
-I am an undergrad studying at Department Computer Science & Engineering, Daffodil International University . I enjoy competitive programming and MERN applications development and paper research.
+<br>I am an undergrad studying at Department Computer Science & Engineering, Daffodil International University . I enjoy competitive programming and MERN applications development and paper research.<br>
 
 Computer Languages: Python, C, Javascript, React,Java .
 Machine Learning Frameworks: ,Tensorflow, PyTorch, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib.
