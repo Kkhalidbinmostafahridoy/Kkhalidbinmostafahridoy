@@ -12,9 +12,9 @@ Hi there👋
 <br>I am an undergrad studying at Department Computer Science & Engineering, Daffodil International University . I enjoy competitive programming and MERN applications development and paper research.<br>
 
 Computer Languages: Python, C, Javascript, React,Java .
-Machine Learning Frameworks: ,Tensorflow, PyTorch, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib.
+<br>Machine Learning Frameworks: ,Tensorflow, PyTorch, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib.<br>
 Environments:Windows,Arduino.
-Writing Tools:MS Word, Excel, PowerPoit .
+<br>Writing Tools:MS Word, Excel, PowerPoit .<br>
 .
 Aim is become a great research mind,team player ,strong coder and crack some dream coding interviews. Happy Learning
 
