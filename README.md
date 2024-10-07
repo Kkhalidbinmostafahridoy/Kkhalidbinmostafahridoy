@@ -7,7 +7,7 @@ Here are some ideas to get you started:
    -🙀 I'm looking to collaborate on **Mobile & Front-End Dev & Reaseach Projects** 
    -🗯️ Ask me about **Technology & Personal Development** 
     <br>-🔍 How to reach me: **khalidbinmostafahridoy@gmail.com**  <br>
-    <br>-😊 Pronouns: He/Him  <br>
+   -😊 Pronouns: He/Him  
   <br> -💃 Fun fact: *Cooding* <br>
 
 ## 🌐 Socials:
