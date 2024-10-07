@@ -5,9 +5,9 @@ Here are some ideas to get you started:
   -🙃 I'm currently working on **Front-End Developer & Android & Research Projects**
   <br>-🌱 I'm currently learning **Spring Boot V3(fromv2)** <br>
    -🙀 I'm looking to collaborate on **Mobile & Front-End Dev & Reaseach Projects** 
-  <br> -🗯️ Ask me about **Technology & Personal Development** <br>
-  <br> -🔍 How to reach me: **khalidbinmostafahridoy@gmail.com** <br>
-   <br>-😊 Pronouns: He/Him <br>
+   -🗯️ Ask me about **Technology & Personal Development** 
+   -🔍 How to reach me: **khalidbinmostafahridoy@gmail.com** 
+   -😊 Pronouns: He/Him 
   <br> -💃 Fun fact: *Cooding* <br>
 
 ## 🌐 Socials:
