@@ -8,6 +8,16 @@ Hi there👋
    -😊 Pronouns: He/Him  
    -💃 Fun fact: *Cooding* 
 
+## 📖 About Me
+I am an undergrad studying at Department Computer Science & Engineering, Daffodil International University . I enjoy competitive programming and MERN applications development and paper research.
+
+Computer Languages: Python, C, Javascript, React,Java .
+Machine Learning Frameworks: ,Tensorflow, PyTorch, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib.
+Environments:Windows,Arduino.
+Writing Tools:MS Word, Excel, PowerPoit .
+.
+Aim is become a great research mind,team player ,strong coder and crack some dream coding interviews. Happy Learning
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1101576619493167217/1101608634150039593) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khalidbin.mostafahridoy/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khalidbinmostafahridoy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khalid-bin-mostafa-hridoy-7006a321a/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@afmarnob) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://bn.quora.com/profile/Afm-Arnob-1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/afmarnob) 
 
