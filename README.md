@@ -7,7 +7,7 @@
    -🔍 How to reach me: **khalidbinmostafahridoy@gmail.com**  <br>
    -😊 Pronouns: He/Him  
    -💃 Fun fact: *Cooding* 
-
+https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/289854590_2927909844173607_3464469782810834992_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=OQW3UDMbmWQQ7kNvgGthkn2&_nc_ht=scontent.fdac138-2.fna&_nc_gid=APkvDSbaOnASb2lwqaAyM_i&oh=00_AYBBYm80_CFizn_exkL4Pc1XnNeNvA4y9519Jn578Epc0Q&oe=670A0A5D
 ## 📖 About Me
 <br>I am an undergrad studying at Department Computer Science & Engineering, Daffodil International University . I enjoy competitive programming and MERN applications development and paper research.<br>
 
