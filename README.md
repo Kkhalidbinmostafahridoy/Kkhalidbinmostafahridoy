@@ -15,7 +15,6 @@ Computer Languages: Python, C, Javascript, React,Java .
 <br>Machine Learning Frameworks: ,Tensorflow, PyTorch, Keras, Scikit-Learn, Pandas, Numpy, Matplotlib.<br>
 Environments:Windows,Arduino.
 <br>Writing Tools:MS Word, Excel, PowerPoit .<br>
-.
 Aim is become a great research mind,team player ,strong coder and crack some dream coding interviews. Happy Learning
 
 ## 🌐 Socials:
