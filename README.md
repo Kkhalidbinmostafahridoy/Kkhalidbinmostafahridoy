@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Khalid bin Mostafa Hridoy</h1>
+<h1 align="center">🚀 Khalid Bin Mostafa Hridoy</h1>
 
 <p align="center">
   <em>“Code with passion. Learn with curiosity. Build with purpose.”</em>
