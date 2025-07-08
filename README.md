@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Hi there, I'm Khalid bin Mostafa Hridoy 👋</h1>
+<h1 align="center"> Khalid bin Mostafa Hridoy </h1>
 
 <p align="center">
 <!--   <img src="https://visitcount.itsvg.in/api?id=Kkhalidbinmostafahridoy&icon=5&color=1" alt="Visitor Count" /> -->
@@ -30,7 +30,7 @@ I'm a **tech explorer** passionate about building elegant, user-friendly interfa
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkblue)
