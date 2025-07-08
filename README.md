@@ -1,113 +1,74 @@
-<h1 align="center">🚀 Khalid bin Mostafa Hridoy</h1>
-
-<p align="center"><em>“Code with passion. Learn with curiosity. Build with purpose.”</em></p>
+<h1 align="center">🚀 Rafi — Full Stack Web Developer</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kkhalidbinmostafahridoy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Passionate-5e60ce?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-SpringBoot%20v3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hobbyist-Researcher-yellow?style=for-the-badge&logo=notion&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=mdrafi404&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-🎓 **CSE Undergraduate | Daffodil International University**  
-🛠️ Front-End & Mobile App Developer | 📱 Android Enthusiast | 🧠 ML & Research Explorer  
-📬 Email: **khalidbinmostafahridoy@gmail.com**  
-🌱 Currently learning **Spring Boot V3**, **UI/UX Design**, and **Advanced ML Frameworks**
+## 📈 About Me
+
+Hi there 👋 I'm **Rafi**, a Full Stack Web Developer from **Bangladesh** 🇧🇩
+
+🧑‍💻 I specialize in building robust and scalable web applications using:
+- **Next.js**, **React**, **TypeScript**, **Express.js**
+- **MongoDB**, **PostgreSQL**, **Firebase**
+- Clean Code, REST API architecture & Performance optimization
+
+✨ I love transforming complex ideas into user-friendly, high-performance apps.
 
 ---
 
-## 💡 About Me
+## 📫 Reach Me
 
-I'm a **self-motivated tech enthusiast** who loves transforming ideas into impactful solutions. From building modern user interfaces to training intelligent models, I embrace challenges with creativity and curiosity.
-
-🔧 **Currently Working On:**
-- ⚛️ Front-End Projects using React, Tailwind & DaisyUI  
-- 🤖 ML Research using TensorFlow/Keras  
-- 📱 Android Apps with Flutter & Firebase  
-
-🤝 **Open to Collaborations:**
-- Front-End or Full-Stack Projects  
-- Mobile Development (Flutter / React Native)  
-- AI, Data Science & Research-Based Projects  
+📧 **Email:** mdrafi37473@gmail.com  
+🌐 **Client Work:** [eprottoyon.com](https://eprottoyon.com)
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🧠 Currently Learning
 
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Front-End  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### 📱 Mobile & Backend  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🧠 AI & Data  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-### 🗃️ Databases & Tools  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ⚡ Advanced Next.js & TypeScript Patterns  
+- 💼 Backend Optimization & PostgreSQL  
+- 🔐 Authentication with NextAuth & Firebase
 
 ---
 
-## 🌐 Connect With Me
+## 💻 Tech Stack
+
+| Frontend         | Backend         | Database        | Tools & Deployment |
+|------------------|------------------|------------------|---------------------|
+| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | ![REST API](https://img.shields.io/badge/REST-API-black?style=flat&logo=web&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+
+---
+
+## 💬 Fun Facts
+
+- 🧩 I love solving complex problems & clean UI design  
+- 🌍 I can speak 3 languages  
+- 🤝 I’m looking for collaborations on impactful projects  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khalid-bin-mostafa-hridoy-7006a321a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://orcid.org/0009-0006-7107-034X"><img src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-  <a href="https://www.facebook.com/khalidbin.mostafahridoy/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/khalidbinmostafahridoy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://medium.com/@afmarnob"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://x.com/afmarnob"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://bn.quora.com/profile/Afm-Arnob-1"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdrafi404&theme=radical&show_icons=true&hide_border=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdrafi404&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrafi404&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🔗 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&theme=tokyonight&show_icons=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<p align="center">
-  <strong><i>“Be the developer who solves problems, not just writes code.”</i></strong>
+  <a href="mailto:mdrafi37473@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://eprottoyon.com"><img src="https://img.shields.io/badge/Portfolio-eprottoyon.com-orange?style=for-the-badge"/></a>
 </p>
