@@ -1,11 +1,16 @@
-<h1 align="center">🚀 Khalid Bin Mostafa Hridoy</h1>
+<h1 align="center">🚀 Khalid bin Mostafa Hridoy</h1>
+
+<p align="center"><em>“Code with passion. Learn with curiosity. Build with purpose.”</em></p>
 
 <p align="center">
-  <em>“Code with passion. Learn with curiosity. Build with purpose.”</em>
+  <img src="https://komarev.com/ghpvc/?username=Kkhalidbinmostafahridoy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
 </p>
 
 <p align="center">
-<!--   <img src="https://komarev.com/ghpvc/?username=Kkhalidbinmostafahridoy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" /> -->
+  <img src="https://img.shields.io/badge/Code-Passionate-5e60ce?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Web%20Dev-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-SpringBoot%20v3-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hobbyist-Researcher-yellow?style=for-the-badge&logo=notion&logoColor=black" />
 </p>
 
 ---
