@@ -12,7 +12,7 @@
 
 ## 📈 About Me
 
-Hello! I'm **Khalid**, a passionate Full Stack Developer and AI enthusiast from Bangladesh 🇧🇩.
+Hello! I'm **Khalid**, a passionate Developer and AI enthusiast from Bangladesh 🇧🇩.
 
 🛠️ I build scalable web and mobile applications, combining creativity and logic with clean code and modern frameworks.
 
