@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hi there, I'm Khalid bin Mostafa Hridoy 👋</h1>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Kkhalidbinmostafahridoy&icon=5&color=1" alt="Visitor Count" />
+<!--   <img src="https://visitcount.itsvg.in/api?id=Kkhalidbinmostafahridoy&icon=5&color=1" alt="Visitor Count" /> -->
 </p>
 
 ---
