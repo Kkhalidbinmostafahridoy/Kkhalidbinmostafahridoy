@@ -17,9 +17,9 @@ Hello! I'm **Khalid**, a passionate Developer and AI enthusiast from Bangladesh 
 🛠️ I build scalable web and mobile applications, combining creativity and logic with clean code and modern frameworks.
 
 🔍 **What I do:**  
-- Front-End Development with React, TailwindCSS, DaisyUI  
+- Front-End Development with React, Next.js, TailwindCSS, DaisyUI, Shadcn 
 - Mobile App Development using Flutter & Firebase  
-- AI & Machine Learning research with TensorFlow/Keras  
+- AI & Machine Learning research with TensorFlow/Keras, Selenium  
 
 🌱 **Currently learning:** Spring Boot V3, Advanced ML Pipelines, UI/UX Design
 
