@@ -1,4 +1,4 @@
-<h1 align="center"> Khalid bin Mostafa Hridoy</h1>
+<h1 align="center"> Khalid Bin Mostafa Hridoy</h1>
 
 <p align="center">
   <em>“Code with passion. Learn with curiosity. Build with purpose.”</em>
@@ -12,7 +12,7 @@
 
 ## 📈 About Me
 
-Hello! I'm **Khalid**, a passionate Developer and AI enthusiast from Bangladesh .
+Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh .
 
 🛠️ I build scalable web and mobile applications, combining creativity and logic with clean code and modern frameworks.
 
