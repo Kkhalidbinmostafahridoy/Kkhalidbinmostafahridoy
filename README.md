@@ -280,33 +280,29 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 <img src="https://github.com/Kkhalidbinmostafahridoy/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </p>
 
-💰 GitHub Stats & Activity
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333&include_all_commits=true&count_private=true" />
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</picture>
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=10" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&text_color=333333&langs_count=10" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
-</picture>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
+<h2 align="center">
+📦 3D Contribution Profile</h2>
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&layout=compact" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&text_color=333333&layout=compact" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&layout=compact" alt="Wakatime Stats" />
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=default&hide_border=true&background=ffffff&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999" />
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
-</picture>
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="3D Contribution Graph"
+    width="100%"
+  />
 </p>
 
 📈 GitHub Activity Graph
