@@ -300,31 +300,84 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 <p align="center">
 
-<a href="[https://github.com/Kkhalidbinmostafahridoy?tab=repositories">
-  <img
-    src="https://img.shields.io/badge/GitHub-Kkhalidbinmostafahridoy-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+  <!-- GitHub -->
+  <a href="https://github.com/Kkhalidbinmostafahridoy">
+    <img
+      src="https://img.shields.io/badge/GitHub-Kkhalidbinmostafahridoy-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
-<a href="mailto:khalidbinmostafahridoy@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+  <!-- Email -->
+  <a href="mailto:khalidbinmostafahridoy@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
-<!-- Replace YOUR_LINKEDIN_USERNAME with your real LinkedIn username -->
-<a href="https://www.linkedin.com/in/khalid-bin-mostafa-hridoy-7006a321a/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/khalid-bin-mostafa-hridoy-7006a321a/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
 </p>
 
 <br/>
+
+<!-- ========================================================= -->
+<!--                  GITHUB STATISTICS                        -->
+<!-- ========================================================= -->
+
+<h2 align="center">💰 GitHub Stats & Activity</h2>
+
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+
+</p>
+
+<!-- ========================================================= -->
+<!--                  STREAK & ACTIVITY                        -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</p>
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION GRAPH                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">📊 Contribution Activity</h2>
+
+<p align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
+
+</p>
 
 <!-- ========================================================= -->
 <!--                       FOOTER                              -->
