@@ -300,7 +300,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 <p align="center">
 
-<a href="https://github.com/Kkhalidbinmostafahridoy">
+<a href="[https://github.com/Kkhalidbinmostafahridoy](https://github.com/Kkhalidbinmostafahridoy?tab=repositories)">
   <img
     src="https://img.shields.io/badge/GitHub-Kkhalidbinmostafahridoy-181717?style=for-the-badge&logo=github&logoColor=white"
     alt="GitHub"
