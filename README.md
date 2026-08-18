@@ -28,7 +28,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 - AI/NLP research using **LLMs, NLP, Transformers, and Hugging Face**
 - Data Analysis & Visualization using **Python, Pandas, NumPy, Matplotlib, and Seaborn**
 - Web Automation & Data Collection using **Selenium**
-- Cloud, Deployment & Development using **Firebase, Vercel, Git, GitHub, Docker, and Linux**
+- Cloud, Deployment & Development using **Vercel, Supabase, Render, Git, GitHub, Docker, Firebase**
 
 🌱 **Currently learning:** Spring Boot V3, Advanced ML Pipelines, AI Engineering, Cloud Computing, MLOps, UI/UX Design
 
