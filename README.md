@@ -1,80 +1,72 @@
-<!-- ========================================================= -->
-<!--                    PROFILE HEADER                         -->
-<!-- ========================================================= -->
-
+=========================================================
+<!-- PROFILE HEADER -->
+=========================================================
 <h1 align="center">
-  👋 Hi, I'm <strong>Khalid Bin Mostafa Hridoy</strong>
+👋 Hi, I'm <strong>Khalid Bin Mostafa Hridoy</strong>
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • AI/ML Researcher • Computer Vision Enthusiast • Software Engineer</strong>
+<strong>Full-Stack Developer &bull; AI/ML Researcher &bull; Computer Vision Enthusiast &bull; Software Engineer</strong>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Khalid+Bin+Mostafa+Hridoy;Full-Stack+Developer;AI+%26+Machine+Learning+Researcher;Computer+Vision+Enthusiast;Software+Engineer;AI+Engineering+%7C+Cloud+%7C+Data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Khalid+Bin+Mostafa+Hridoy;Full-Stack+Developer;AI+%26+Machine+Learning+Researcher;Computer+Vision+Enthusiast;Software+Engineer;AI+Engineering+%7C+Cloud+%7C+Data" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>“Code with passion. Learn with curiosity. Build with purpose.”</em>
+<em>&ldquo;Code with passion. Learn with curiosity. Build with purpose.&rdquo;</em>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kkhalidbinmostafahridoy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Kkhalidbinmostafahridoy?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Kkhalidbinmostafahridoy?label=Stars&style=flat-square&color=0e75b6" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=Kkhalidbinmostafahridoy&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Kkhalidbinmostafahridoy?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Kkhalidbinmostafahridoy?label=Stars&style=flat-square&color=0e75b6" alt="Stars" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kkhalidbinmostafahridoy">
-    <img src="https://img.shields.io/github/last-commit/Kkhalidbinmostafahridoy?style=for-the-badge&logo=git&logoColor=white&label=Last%20Commit" />
-  </a>
-  <a href="https://github.com/Kkhalidbinmostafahridoy?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:khalidbinmostafahridoy@gmail.com">
-    <img src="https://img.shields.io/badge/Available%20for-Collaboration-success?style=for-the-badge&logo=handshake&logoColor=white" />
-  </a>
+<a href="https://github.com/Kkhalidbinmostafahridoy">
+<img src="https://img.shields.io/github/last-commit/Kkhalidbinmostafahridoy?style=for-the-badge&logo=git&logoColor=white&label=Last%20Commit" />
+</a>
+<a href="https://github.com/Kkhalidbinmostafahridoy?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:khalidbinmostafahridoy@gmail.com">
+<img src="https://img.shields.io/badge/Available%20for-Collaboration-success?style=for-the-badge&logo=handshake&logoColor=white" />
+</a>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
+🧑‍💻 About Me
 <img align="right" width="360" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
-Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 🇧🇩.
+Hello! I'm Hridoy, a passionate Developer and AI enthusiast from Bangladesh 🇩🇧.
 
 🛠️ I build scalable web and mobile applications, combining creativity and logic with clean code and modern frameworks.
 
-🔍 **What I do:**
+🔍 What I do:
 
-- Full-Stack Development with **Next.js, Express.js, Node.js, and TypeScript**
-- Front-End Development with **React, Next.js, Tailwind CSS, Shadcn/UI, and Framer Motion**
-- State Management & Validation using **Redux Toolkit, Zod, and JWT Auth**
-- Backend & API Development using **Node.js, Express.js, REST API, Prisma ORM, and FastAPI**
-- Mobile App Development using **Flutter & Firebase**
-- Database Development with **PostgreSQL, MySQL, MongoDB, and Prisma**
-- AI & Machine Learning research with **PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, and Hugging Face**
-- Deep Learning & Computer Vision using **CNN, Transfer Learning, ResNet, DenseNet, EfficientNet, MobileNet, and YOLO**
-- AI/NLP research using **LLMs, NLP, Transformers, and Hugging Face**
-- Data Analysis & Visualization using **Python, Pandas, NumPy, Matplotlib, and Seaborn**
-- Web Automation & Data Collection using **Selenium**
-- Cloud, Deployment & Development using **Vercel, Supabase, Render, Git, GitHub, Docker, Firebase**
+Full-Stack Development with Next.js, Express.js, Node.js, and TypeScript
+Front-End Development with React, Next.js, Tailwind CSS, Shadcn/UI, and Framer Motion
+State Management & Validation using Redux Toolkit, Zod, and JWT Auth
+Backend & API Development using Node.js, Express.js, REST API, Prisma ORM, and FastAPI
+Mobile App Development using Flutter & Firebase
+Database Development with PostgreSQL, MySQL, MongoDB, and Prisma
+AI & Machine Learning research with PyTorch, TensorFlow, Keras, Scikit-learn, OpenCV, and Hugging Face
+Deep Learning & Computer Vision using CNN, Transfer Learning, ResNet, DenseNet, EfficientNet, MobileNet, and YOLO
+AI/NLP research using LLMs, NLP, Transformers, and Hugging Face
+Data Analysis & Visualization using Python, Pandas, NumPy, Matplotlib, and Seaborn
+Web Automation & Data Collection using Selenium
+Cloud, Deployment & Development using Vercel, Supabase, Render, Git, GitHub, Docker, Firebase
+🌱 Currently learning:
 
-🌱 **Currently learning:**
+Spring Boot V3 &middot; Advanced ML Pipelines &middot; AI Engineering &middot; Cloud Computing &middot; MLOps &middot; UI/UX Design
 
-`Spring Boot V3` · `Advanced ML Pipelines` · `AI Engineering` · `Cloud Computing` · `MLOps` · `UI/UX Design`
+🤝 Open for:
 
-🤝 **Open for:**
-
-`Web Development` · `Mobile Development` · `AI Research` · `Machine Learning` · `Software Engineering` · `Open Source`
+Web Development &middot; Mobile Development &middot; AI Research &middot; Machine Learning &middot; Software Engineering &middot; Open Source
 
 <br clear="right"/>
 
----
-
-# 🧠 AI • ML • COMPUTER VISION
-
+🧠 AI &bull; ML &bull; COMPUTER VISION
 <p align="center">
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-Research-0e75b6?style=for-the-badge&logo=openai&logoColor=white" />
@@ -101,22 +93,15 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 </p>
 
----
-
-# 💻 Tech Stack
-
-## 🐍 Languages
-
+💻 Tech Stack
+🐍 Languages
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark" />
 
 </p>
 
----
-
-## 🎨 Front-End
-
+🎨 Front-End
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite&theme=dark" />
@@ -125,19 +110,16 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 <p align="left">
 
-![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
-![Responsive UI](https://img.shields.io/badge/Responsive%20UI-Design-0e75b6?style=for-the-badge)
+Shadcn/UI
+Redux Toolkit
+Framer Motion
+DaisyUI
+Zod
+Responsive UI
 
 </p>
 
----
-
-## ⚙️ Backend & API
-
+⚙️ Backend & API
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" />
@@ -146,18 +128,15 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 <p align="left">
 
-![REST API](https://img.shields.io/badge/REST%20API-Architecture-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-499848?style=for-the-badge)
-![Multer](https://img.shields.io/badge/Multer-File%20Upload-000000?style=for-the-badge)
+REST API
+JWT
+Socket.IO
+Uvicorn
+Multer
 
 </p>
 
----
-
-## 🗄️ Databases
-
+🗂️ Databases
 <p align="left">
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
@@ -166,15 +145,12 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 <p align="left">
 
-![Prisma](https://img.shields.io/badge/Prisma-ORM-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![Database Architecture](https://img.shields.io/badge/Database-Architecture-336791?style=for-the-badge)
+Prisma
+Database Architecture
 
 </p>
 
----
-
-# 🤖 AI & Data Science
-
+🤖 AI & Data Science
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
@@ -183,28 +159,25 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 <p align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+PyTorch
+TensorFlow
+Keras
+Scikit Learn
+OpenCV
 
 </p>
 
 <p align="center">
 
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-NLP-FFCC4D?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Generative%20AI-blue?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-111111?style=for-the-badge)
+Hugging Face
+Transformers
+LLM
+NLP
+YOLO
 
 </p>
 
----
-
-# 📊 Data Analytics & Visualization
-
+📊 Data Analytics & Visualization
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
@@ -213,18 +186,15 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 <p align="center">
 
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Python-yellow?style=for-the-badge)
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Data Analysis
 
 </p>
 
----
-
-# 🧪 Machine Learning Models
-
+🧪 Machine Learning Models
 <p align="center">
 
 <img src="https://img.shields.io/badge/ResNet-50-EE4C2C?style=for-the-badge" />
@@ -242,10 +212,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 </p>
 
----
-
-# 🔬 Research Interests
-
+🔬 Research Interests
 <table align="center">
 <tr>
 <td align="center">🧠<br/><b>Deep Learning</b></td>
@@ -253,14 +220,12 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 <td align="center">♻️<br/><b>Waste AI</b></td>
 <td align="center">🔍<br/><b>Explainable AI</b></td>
 </tr>
-
 <tr>
 <td align="center">⚡<br/><b>Transfer Learning</b></td>
 <td align="center">📱<br/><b>Real-Time AI</b></td>
 <td align="center">🤖<br/><b>Generative AI</b></td>
 <td align="center">💬<br/><b>NLP / LLM</b></td>
 </tr>
-
 <tr>
 <td align="center">☁️<br/><b>Cloud Computing</b></td>
 <td align="center">⚙️<br/><b>AI Engineering</b></td>
@@ -269,3 +234,103 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 </tr>
 </table>
 
+<!-- ========================================================= -->
+<!-- ✨ NEW PROFESSIONAL SECTIONS ✨ -->
+<!-- ========================================================= -->
+
+📦 3D Contribution Profile
+<p align="center">
+<img src="https://github.com/Kkhalidbinmostafahridoy/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</p>
+
+💰 GitHub Stats & Activity
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333&include_all_commits=true&count_private=true" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=10" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&text_color=333333&langs_count=10" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+</picture>
+</p>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&layout=compact" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&text_color=333333&layout=compact" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&layout=compact" alt="Wakatime Stats" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=default&hide_border=true&background=ffffff&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999" />
+<img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
+</picture>
+</p>
+
+📈 GitHub Activity Graph
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</picture>
+</p>
+
+🏆 Trophies & Achievements
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=flat&no-bg=false&no-frame=false&column=7&margin-w=5" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
+</picture>
+</p>
+
+📝 Top Contributed Repositories
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333&show_owner=true" />
+<img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" alt="3D Contrib Repo" />
+</picture>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" />
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333&show_owner=true" />
+<img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" alt="Profile Repo" />
+</picture>
+</p>
+
+🌐 Connect With Me
+<table align="center">
+<tr>
+<td align="center" width="130">
+<a href="https://github.com/Kkhalidbinmostafahridoy">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" /><br/>GitHub
+</a>
+</td>
+<td align="center" width="130">
+<a href="mailto:khalidbinmostafahridoy@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" /><br/>Email
+</a>
+</td>
+<td align="center" width="130">
+<a href="https://linkedin.com/in/">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /><br/>LinkedIn
+</a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&width=100%" alt="Footer Wave" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Built%20with-Love-red?style=for-the-badge&logo=heart&logoColor=white" />
+<img src="https://img.shields.io/badge/Made%20by-Hridoy-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+</p>
