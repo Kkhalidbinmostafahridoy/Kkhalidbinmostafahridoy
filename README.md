@@ -4,7 +4,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-  👋 Hi, I'm <strong>Khalid Bin Mostafa Hridoy</strong>
+  It's <strong>Khalid Bin Mostafa Hridoy</strong>
 </h1>
 
 <p align="center">
