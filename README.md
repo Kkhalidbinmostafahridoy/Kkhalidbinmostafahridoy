@@ -76,29 +76,18 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 # 🧠 AI • ML • COMPUTER VISION
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-Research-0e75b6?style=for-the-badge&logo=openai&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Deep%20Learning-CNN-red?style=for-the-badge&logo=pytorch&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-blueviolet?style=for-the-badge&logo=opencv&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Explainable%20AI-XAI-critical?style=for-the-badge" />
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Generative%20AI-LLM-success?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/NLP-Transformers-8A2BE2?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/Transfer%20Learning-Research-ff69b4?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/Real--Time%20AI-Computer%20Vision-111111?style=for-the-badge" />
-
 </p>
 
 ---
@@ -106,146 +95,104 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 # 💻 Tech Stack
 
 ## 🐍 Languages
-
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark" />
-
 </p>
-
----
 
 ## 🎨 Front-End
-
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite&theme=dark" />
-
 </p>
 
 <p align="left">
-
 ![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
 ![Responsive UI](https://img.shields.io/badge/Responsive%20UI-Design-0e75b6?style=for-the-badge)
-
 </p>
-
----
 
 ## ⚙️ Backend & API
-
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" />
-
 </p>
 
 <p align="left">
-
 ![REST API](https://img.shields.io/badge/REST%20API-Architecture-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-499848?style=for-the-badge)
 ![Multer](https://img.shields.io/badge/Multer-File%20Upload-000000?style=for-the-badge)
-
 </p>
-
----
 
 ## 🗄️ Databases
-
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-
 </p>
 
 <p align="left">
-
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 ![Database Architecture](https://img.shields.io/badge/Database-Architecture-336791?style=for-the-badge)
-
 </p>
 
 ---
 
 # 🤖 AI & Data Science
-
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-
 </p>
 
 <p align="center">
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-
 </p>
 
 <p align="center">
-
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Transformers](https://img.shields.io/badge/Transformers-NLP-FFCC4D?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-Generative%20AI-blue?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=for-the-badge)
 ![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-111111?style=for-the-badge)
-
 </p>
 
 ---
 
 # 📊 Data Analytics & Visualization
-
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
 </p>
 
 <p align="center">
-
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Python-yellow?style=for-the-badge)
-
 </p>
 
 ---
 
 # 🧪 Machine Learning Models
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/ResNet-50-EE4C2C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/DenseNet-121-EE4C2C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/EfficientNet-B0-EE4C2C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MobileNet-V3-EE4C2C?style=for-the-badge" />
-
 </p>
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Transfer%20Learning-Deep%20Learning-0e75b6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/YOLO-Object%20Detection-111111?style=for-the-badge" />
-
 </p>
 
 ---
 
 # 🔬 Research Interests
-
 <table align="center">
 <tr>
 <td align="center">🧠<br/><b>Deep Learning</b></td>
@@ -253,14 +200,12 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 <td align="center">♻️<br/><b>Waste AI</b></td>
 <td align="center">🔍<br/><b>Explainable AI</b></td>
 </tr>
-
 <tr>
 <td align="center">⚡<br/><b>Transfer Learning</b></td>
 <td align="center">📱<br/><b>Real-Time AI</b></td>
 <td align="center">🤖<br/><b>Generative AI</b></td>
 <td align="center">💬<br/><b>NLP / LLM</b></td>
 </tr>
-
 <tr>
 <td align="center">☁️<br/><b>Cloud Computing</b></td>
 <td align="center">⚙️<br/><b>AI Engineering</b></td>
@@ -269,80 +214,47 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 </tr>
 </table>
 
-
-
 <!-- ========================================================= -->
 <!-- ✨ NEW PROFESSIONAL SECTIONS ✨ -->
 <!-- ========================================================= -->
 
-📦 3D Contribution Profile
+<h3 align="center">📦 3D Contribution Profile</h3>
 <p align="center">
-<img src="https://github.com/Kkhalidbinmostafahridoy/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+<img src="https://raw.githubusercontent.com/Kkhalidbinmostafahridoy/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </p>
 
-💰 GitHub Stats & Activity
+<h3 align="center">💰 GitHub Stats & Activity</h3>
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333&include_all_commits=true&count_private=true" />
 <img height="195" src="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=10" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&text_color=333333&langs_count=10" />
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
-</picture>
 </p>
 
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&layout=compact" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&text_color=333333&layout=compact" />
-<img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&layout=compact" alt="Wakatime Stats" />
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=default&hide_border=true&background=ffffff&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999" />
 <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&background=0d1117&stroke=0e75b6&ring=0e75b6&fire=FF6B35&currStreakLabel=0e75b6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
-</picture>
+<img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&text_color=c9d1d9&layout=compact" alt="Wakatime Stats" />
 </p>
 
-📈 GitHub Activity Graph
+<h3 align="center">📈 GitHub Activity Graph</h3>
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=true" />
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</picture>
 </p>
 
-🏆 Trophies & Achievements
+<h3 align="center">🏆 Trophies & Achievements</h3>
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=flat&no-bg=false&no-frame=false&column=7&margin-w=5" />
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
-</picture>
 </p>
 
-📝 Top Contributed Repositories
+<h3 align="center">📝 Top Contributed Repositories</h3>
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333&show_owner=true" />
-<img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" alt="3D Contrib Repo" />
-</picture>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333&show_owner=true" />
-<img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" alt="Profile Repo" />
-</picture>
+<a href="https://github.com/Kkhalidbinmostafahridoy/github-profile-3d-contrib">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" alt="3D Contrib Repo" />
+</a>
+<a href="https://github.com/Kkhalidbinmostafahridoy/Kkhalidbinmostafahridoy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9" alt="Profile Repo" />
+</a>
 </p>
 
-🌐 Connect With Me
+<h3 align="center">🌐 Connect With Me</h3>
 <table align="center">
 <tr>
 <td align="center" width="130">
