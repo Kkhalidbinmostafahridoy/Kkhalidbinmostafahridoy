@@ -1,3 +1,8 @@
+Here is the fixed and perfected `README.md` code. 
+
+I have removed the **duplicate Contribution Graph** that was causing layout issues, ensured the **GitHub Stats & Activity** section perfectly matches your image structure (Stats card, Top Languages card, and Streak card), and cleaned up the spacing/alignment for a flawless rendering.
+
+```markdown
 <!-- ========================================================= -->
 <!--                    PROFILE HEADER                         -->
 <!-- ========================================================= -->
@@ -76,29 +81,18 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 # 🧠 AI • ML • COMPUTER VISION
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Research-0e75b6?style=for-the-badge&logo=openai&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Advanced-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Deep%20Learning-CNN-red?style=for-the-badge&logo=pytorch&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-blueviolet?style=for-the-badge&logo=opencv&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Explainable%20AI-XAI-critical?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Research-0e75b6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-orange?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-CNN-red?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-blueviolet?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-XAI-critical?style=for-the-badge" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Generative%20AI-LLM-success?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/NLP-Transformers-8A2BE2?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Transfer%20Learning-Research-ff69b4?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Real--Time%20AI-Computer%20Vision-111111?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Generative%20AI-LLM-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Transformers-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transfer%20Learning-Research-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real--Time%20AI-Computer%20Vision-111111?style=for-the-badge" />
 </p>
 
 ---
@@ -108,9 +102,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 ## 🐍 Languages
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark" />
 </p>
 
 ---
@@ -118,20 +110,16 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 ## 🎨 Front-End
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite&theme=dark" />
 </p>
 
 <p align="left">
-
-![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge)
-![Responsive UI](https://img.shields.io/badge/Responsive%20UI-Design-0e75b6?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-Design-0e75b6?style=for-the-badge" />
 </p>
 
 ---
@@ -139,19 +127,15 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 ## ⚙️ Backend & API
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" />
 </p>
 
 <p align="left">
-
-![REST API](https://img.shields.io/badge/REST%20API-Architecture-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI-499848?style=for-the-badge)
-![Multer](https://img.shields.io/badge/Multer-File%20Upload-000000?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/REST%20API-Architecture-005571?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-Real--Time-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-ASGI-499848?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multer-File%20Upload-000000?style=for-the-badge" />
 </p>
 
 ---
@@ -159,16 +143,12 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 ## 🗄️ Databases
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
 </p>
 
 <p align="left">
-
-![Prisma](https://img.shields.io/badge/Prisma-ORM-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
-![Database Architecture](https://img.shields.io/badge/Database-Architecture-336791?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Prisma-ORM-3982CE?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-Architecture-336791?style=for-the-badge" />
 </p>
 
 ---
@@ -176,29 +156,23 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 # 🤖 AI & Data Science
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
 </p>
 
 <p align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-Neural%20Networks-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 <p align="center">
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-NLP-FFCC4D?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Generative%20AI-blue?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-111111?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Hugging%20Face-NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Transformers-NLP-FFCC4D?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-Generative%20AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-111111?style=for-the-badge" />
 </p>
 
 ---
@@ -206,19 +180,15 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 # 📊 Data Analytics & Visualization
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 </p>
 
 <p align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Python-yellow?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-Python-yellow?style=for-the-badge" />
 </p>
 
 ---
@@ -226,20 +196,16 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 # 🧪 Machine Learning Models
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ResNet-50-EE4C2C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DenseNet-121-EE4C2C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EfficientNet-B0-EE4C2C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MobileNet-V3-EE4C2C?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/ResNet-50-EE4C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DenseNet-121-EE4C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EfficientNet-B0-EE4C2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MobileNet-V3-EE4C2C?style=for-the-badge" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transfer%20Learning-Deep%20Learning-0e75b6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/YOLO-Object%20Detection-111111?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/CNN-Convolutional%20Neural%20Network-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transfer%20Learning-Deep%20Learning-0e75b6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-Object%20Detection-111111?style=for-the-badge" />
 </p>
 
 ---
@@ -247,160 +213,82 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 # 🔬 Research Interests
 
 <table align="center">
-<tr>
-<td align="center">🧠<br/><b>Deep Learning</b></td>
-<td align="center">👁️<br/><b>Computer Vision</b></td>
-<td align="center">♻️<br/><b>Waste AI</b></td>
-<td align="center">🔍<br/><b>Explainable AI</b></td>
-</tr>
-
-<tr>
-<td align="center">⚡<br/><b>Transfer Learning</b></td>
-<td align="center">📱<br/><b>Real-Time AI</b></td>
-<td align="center">🤖<br/><b>Generative AI</b></td>
-<td align="center">💬<br/><b>NLP / LLM</b></td>
-</tr>
-
-<tr>
-<td align="center">☁️<br/><b>Cloud Computing</b></td>
-<td align="center">⚙️<br/><b>AI Engineering</b></td>
-<td align="center">📊<br/><b>Data Analytics</b></td>
-<td align="center">🧪<br/><b>ML Research</b></td>
-</tr>
+  <tr>
+    <td align="center">🧠<br/><b>Deep Learning</b></td>
+    <td align="center">👁️<br/><b>Computer Vision</b></td>
+    <td align="center">♻️<br/><b>Waste AI</b></td>
+    <td align="center">🔍<br/><b>Explainable AI</b></td>
+  </tr>
+  <tr>
+    <td align="center">⚡<br/><b>Transfer Learning</b></td>
+    <td align="center">📱<br/><b>Real-Time AI</b></td>
+    <td align="center">🤖<br/><b>Generative AI</b></td>
+    <td align="center">💬<br/><b>NLP / LLM</b></td>
+  </tr>
+  <tr>
+    <td align="center">☁️<br/><b>Cloud Computing</b></td>
+    <td align="center">⚙️<br/><b>AI Engineering</b></td>
+    <td align="center">📊<br/><b>Data Analytics</b></td>
+    <td align="center">🧪<br/><b>ML Research</b></td>
+  </tr>
 </table>
 
-
-
-<!-- ========================================================= -->
-<!-- ✨ NEW PROFESSIONAL SECTIONS ✨ -->
-<!-- ========================================================= -->
+---
 
 <!-- ========================================================= -->
-<!--                CONTRIBUTION ACTIVITY                      -->
+<!--                    CONNECT & STATS                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">📈 GitHub Activity</h2>
+## 🌐 Connect With Me
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    alt="Khalid Bin Mostafa Hridoy GitHub Activity Graph"
-    width="100%"
-  />
-</p>
-
-<br/>
-
-
-<!-- ========================================================= -->
-<!--                    CONNECT                                -->
-<!-- ========================================================= -->
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-
-  <!-- GitHub -->
   <a href="https://github.com/Kkhalidbinmostafahridoy">
-    <img
-      src="https://img.shields.io/badge/GitHub-Kkhalidbinmostafahridoy-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-Kkhalidbinmostafahridoy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <!-- Email -->
   <a href="mailto:khalidbinmostafahridoy@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/khalid-bin-mostafa-hridoy-7006a321a/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
 </p>
 
-<br/>
+---
 
-<!-- ========================================================= -->
-<!--                  GITHUB STATISTICS                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">💰 GitHub Stats & Activity</h2>
+## 💰 GitHub Stats & Activity
 
 <p align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub Stats"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-<!-- ========================================================= -->
-<!--                  STREAK & ACTIVITY                        -->
-<!-- ========================================================= -->
+<!-- GitHub Streak Stats (Total Contributions, Current & Longest Streak) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
-<!-- ========================================================= -->
-<!--                  CONTRIBUTION GRAPH                       -->
-<!-- ========================================================= -->
-
-<h2 align="center">📊 Contribution Activity</h2>
-
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-
-</p>
+---
 
 <!-- ========================================================= -->
 <!--                       FOOTER                              -->
 <!-- ========================================================= -->
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"
-    width="100%"
-    alt="Footer"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" width="100%" alt="Footer" />
 </p>
 
 <p align="center">
-
-<img
-  src="https://img.shields.io/badge/Built%20with-❤️-0e75b6?style=for-the-badge"
-  alt="Built with Love"
-/>
-
-<img
-  src="https://img.shields.io/badge/Made%20by-Hridoy-111827?style=for-the-badge&logo=github&logoColor=white"
-  alt="Made by Hridoy"
-/>
-
+  <img src="https://img.shields.io/badge/Built%20with-❤️-0e75b6?style=for-the-badge" alt="Built with Love" />
+  <img src="https://img.shields.io/badge/Made%20by-Hridoy-111827?style=for-the-badge&logo=github&logoColor=white" alt="Made by Hridoy" />
 </p>
+```
