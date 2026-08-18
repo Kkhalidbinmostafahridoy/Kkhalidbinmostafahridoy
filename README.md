@@ -276,42 +276,6 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 <!-- ========================================================= -->
 
 <!-- ========================================================= -->
-<!--                  GITHUB ANALYTICS                         -->
-<!-- ========================================================= -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"
-    alt="Khalid Bin Mostafa Hridoy GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-    alt="Khalid Bin Mostafa Hridoy Top Languages"
-    height="180"
-  />
-</p>
-
-<br/>
-
-<!-- ========================================================= -->
-<!--                  GITHUB STREAK                            -->
-<!-- ========================================================= -->
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true"
-    alt="Khalid Bin Mostafa Hridoy GitHub Streak"
-  />
-</p>
-
-<br/>
-
-<!-- ========================================================= -->
 <!--                CONTRIBUTION ACTIVITY                      -->
 <!-- ========================================================= -->
 
