@@ -20,7 +20,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 - Full-Stack Development with **Next.js, Express.js, and TypeScript**
 - State Management & Validation using **Redux Toolkit, Zod, and JWT Auth**
 - Mobile App Development using **Flutter & Firebase**  
-- AI & Machine Learning research with **PyTorch, LLMs,huggingFace and Selenium**  
+- AI & Machine Learning research with **PyTorch, LLMs, huggingFace and Selenium**  
 
 🌱 **Currently learning:** Spring Boot V3, Advanced ML Pipelines, UI/UX Design
 
