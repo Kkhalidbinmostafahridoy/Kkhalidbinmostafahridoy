@@ -275,95 +275,190 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 <!-- ✨ NEW PROFESSIONAL SECTIONS ✨ -->
 <!-- ========================================================= -->
 
-📦 3D Contribution Profile
-<p align="center">
-<img src="https://github.com/Kkhalidbinmostafahridoy/github-profile-3d-contrib/blob/main/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-</p>
+<!-- ========================================================= -->
+<!--                  GITHUB ANALYTICS                         -->
+<!-- ========================================================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Kkhalidbinmostafahridoy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github"
+    alt="Khalid Bin Mostafa Hridoy GitHub Stats"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkhalidbinmostafahridoy&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    alt="Khalid Bin Mostafa Hridoy Top Languages"
     height="180"
   />
 </p>
-<h2 align="center">
-📦 3D Contribution Profile</h2>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  GITHUB STREAK                            -->
+<!-- ========================================================= -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
   <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
+    src="https://streak-stats.demolab.com?user=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true"
+    alt="Khalid Bin Mostafa Hridoy GitHub Streak"
+  />
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                CONTRIBUTION ACTIVITY                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">📈 GitHub Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    alt="Khalid Bin Mostafa Hridoy GitHub Activity Graph"
+    width="100%"
+  />
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  GITHUB TROPHIES                          -->
+<!-- ========================================================= -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"
+    alt="Khalid Bin Mostafa Hridoy GitHub Trophies"
+    width="100%"
+  />
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--              3D CONTRIBUTION PROFILE                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">🌐 3D Contribution Profile</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Kkhalidbinmostafahridoy/github-profile-3d-contrib/main/profile-3d-contrib/profile-green-animate.svg"
     alt="3D Contribution Graph"
     width="100%"
   />
 </p>
 
-📈 GitHub Activity Graph
+<br/>
+
+<!-- ========================================================= -->
+<!--              CONTRIBUTION SNAKE                           -->
+<!-- ========================================================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=true" />
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</picture>
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
-🏆 Trophies & Achievements
+<br/>
+
+<!-- ========================================================= -->
+<!--              FEATURED REPOSITORIES                        -->
+<!-- ========================================================= -->
+
+<h2 align="center">📌 Featured Projects</h2>
+
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=flat&no-bg=false&no-frame=false&column=7&margin-w=5" />
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Kkhalidbinmostafahridoy&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" alt="Trophies" />
-</picture>
+
+<a href="https://github.com/Kkhalidbinmostafahridoy?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true"
+    width="400"
+    alt="Featured Project 1"
+  />
+</a>
+
+<a href="https://github.com/Kkhalidbinmostafahridoy?tab=repositories">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true"
+    width="400"
+    alt="Featured Project 2"
+  />
+</a>
+
 </p>
 
-📝 Top Contributed Repositories
+<br/>
+
+<!-- ========================================================= -->
+<!--                    CONNECT                                -->
+<!-- ========================================================= -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333&show_owner=true" />
-<img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=github-profile-3d-contrib&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" alt="3D Contrib Repo" />
-</picture>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" />
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=default&hide_border=true&bg_color=ffffff&title_color=0e75b6&icon_color=0e75b6&text_color=333333&show_owner=true" />
-<img width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Kkhalidbinmostafahridoy&repo=Kkhalidbinmostafahridoy&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&text_color=c9d1d9&show_owner=true" alt="Profile Repo" />
-</picture>
-</p>
-
-🌐 Connect With Me
-<table align="center">
-<tr>
-<td align="center" width="130">
 <a href="https://github.com/Kkhalidbinmostafahridoy">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" /><br/>GitHub
+  <img
+    src="https://img.shields.io/badge/GitHub-Kkhalidbinmostafahridoy-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
-</td>
-<td align="center" width="130">
+
 <a href="mailto:khalidbinmostafahridoy@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail&theme=dark" /><br/>Email
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
-</td>
-<td align="center" width="130">
-<a href="https://linkedin.com/in/">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /><br/>LinkedIn
+
+<!-- Replace YOUR_LINKEDIN_USERNAME with your real LinkedIn username -->
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
-</td>
-</tr>
-</table>
+
+</p>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                       FOOTER                              -->
+<!-- ========================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&width=100%" alt="Footer Wave" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Built%20with-Love-red?style=for-the-badge&logo=heart&logoColor=white" />
-<img src="https://img.shields.io/badge/Made%20by-Hridoy-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+
+<img
+  src="https://img.shields.io/badge/Built%20with-❤️-0e75b6?style=for-the-badge"
+  alt="Built with Love"
+/>
+
+<img
+  src="https://img.shields.io/badge/Made%20by-Hridoy-111827?style=for-the-badge&logo=github&logoColor=white"
+  alt="Made by Hridoy"
+/>
+
 </p>
