@@ -271,15 +271,58 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-# ♻️ Current Research Focus
+---
 
-### Explainable & Resource-Efficient Waste Classification
+# 🔬 Research & Academic Projects
 
-My current research direction focuses on developing a deep learning framework for automated waste classification using:
+## 🧠 Completed Research — Brain Cancer Detection
+
+### A Comparison of CNN Performance in Brain Cancer Detection Using Machine Learning
+
+Completed an academic research project focused on the application and comparative evaluation of Convolutional Neural Networks (CNNs) for automated brain cancer detection from medical images.
+
+### 🧪 Models Investigated
+
+- VGG16
+- VGG19
+- ResNet50
+- ResNet101
+- DenseNet121
+- Xception
+- EfficientNet
+- InceptionV3
+- MobileNet
+
+### 🔬 Research Components
+
+- Medical Image Classification
+- CNN-based Deep Learning
+- Transfer Learning
+- Image Preprocessing
+- Data Augmentation
+- Model Training & Validation
+- Performance Comparison
+- Accuracy and Loss Analysis
+- Confusion Matrix
+- Precision, Recall and F1-Score
+- Computer-Aided Diagnosis
+
+> This project strengthened my research experience in medical image analysis, deep learning, transfer learning, and comparative model evaluation.
+---
+
+# ♻️ Current Research
+
+## An Explainable and Resource-Efficient Deep Learning Framework for Automated Waste Classification Using Bangladeshi and International Waste Images
+
+My current MSc research focuses on developing an explainable and resource-efficient deep learning framework for automated waste classification by combining **Bangladeshi and international waste images**.
+
+The research investigates whether combining geographically diverse waste images can improve the robustness and generalization capability of deep learning models for real-world waste classification.
+
+### 🗂️ Waste Categories
 
 ```text
-Cardboard
-Glass
-Metal
-Paper
-Plastic
+♻️ Cardboard
+🫙 Glass
+🔩 Metal
+📄 Paper
+🧴 Plastic
