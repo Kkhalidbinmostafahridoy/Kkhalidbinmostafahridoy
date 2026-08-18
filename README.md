@@ -310,19 +310,3 @@ Completed an academic research project focused on the application and comparativ
 > This project strengthened my research experience in medical image analysis, deep learning, transfer learning, and comparative model evaluation.
 ---
 
-# ♻️ Current Research
-
-## An Explainable and Resource-Efficient Deep Learning Framework for Automated Waste Classification Using Bangladeshi and International Waste Images
-
-My current MSc research focuses on developing an explainable and resource-efficient deep learning framework for automated waste classification by combining **Bangladeshi and international waste images**.
-
-The research investigates whether combining geographically diverse waste images can improve the robustness and generalization capability of deep learning models for real-world waste classification.
-
-### 🗂️ Waste Categories
-
-```text
-♻️ Cardboard
-🫙 Glass
-🔩 Metal
-📄 Paper
-🧴 Plastic
