@@ -1,8 +1,4 @@
-Here is the fixed and perfected `README.md` code. 
 
-I have removed the **duplicate Contribution Graph** that was causing layout issues, ensured the **GitHub Stats & Activity** section perfectly matches your image structure (Stats card, Top Languages card, and Streak card), and cleaned up the spacing/alignment for a flawless rendering.
-
-```markdown
 <!-- ========================================================= -->
 <!--                    PROFILE HEADER                         -->
 <!-- ========================================================= -->
