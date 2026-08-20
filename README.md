@@ -210,22 +210,22 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 <table align="center">
   <tr>
-    <td align="center">🧠<br/><b>Deep Learning</b></td>
-    <td align="center">👁️<br/><b>Computer Vision</b></td>
-    <td align="center">♻️<br/><b>Waste AI</b></td>
-    <td align="center">🔍<br/><b>Explainable AI</b></td>
+    <td align="center"><br/><b>Deep Learning</b></td>
+    <td align="center"><br/><b>Computer Vision</b></td>
+    <td align="center"><br/><b>Waste AI</b></td>
+    <td align="center"><br/><b>Explainable AI</b></td>
   </tr>
   <tr>
-    <td align="center">⚡<br/><b>Transfer Learning</b></td>
-    <td align="center">📱<br/><b>Real-Time AI</b></td>
-    <td align="center">🤖<br/><b>Generative AI</b></td>
-    <td align="center">💬<br/><b>NLP / LLM</b></td>
+    <td align="center"><br/><b>Transfer Learning</b></td>
+    <td align="center"><br/><b>Real-Time AI</b></td>
+    <td align="center"><br/><b>Generative AI</b></td>
+    <td align="center"><br/><b>NLP / LLM</b></td>
   </tr>
   <tr>
-    <td align="center">☁️<br/><b>Cloud Computing</b></td>
-    <td align="center">⚙️<br/><b>AI Engineering</b></td>
-    <td align="center">📊<br/><b>Data Analytics</b></td>
-    <td align="center">🧪<br/><b>ML Research</b></td>
+    <td align="center"><br/><b>Cloud Computing</b></td>
+    <td align="center"><br/><b>AI Engineering</b></td>
+    <td align="center"><br/><b>Data Analytics</b></td>
+    <td align="center"><br/><b>ML Research</b></td>
   </tr>
 </table>
 
