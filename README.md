@@ -39,7 +39,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
@@ -47,7 +47,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 🛠️ I build scalable web and mobile applications, combining creativity and logic with clean code and modern frameworks.
 
-🔍 **What I do:**
+ **What I do:**
 
 - Full-Stack Development with **Next.js, Express.js, Node.js, and TypeScript**
 - Front-End Development with **React, Next.js, Tailwind CSS, Shadcn/UI, and Framer Motion**
@@ -62,11 +62,11 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 - Web Automation & Data Collection using **Selenium**
 - Cloud, Deployment & Development using **Vercel, Supabase, Render, Git, GitHub, Docker, Firebase**
 
-🌱 **Currently learning:**
+ **Currently learning:**
 
 `Spring Boot V3` · `Advanced ML Pipelines` · `AI Engineering` · `Cloud Computing` · `MLOps` · `UI/UX Design`
 
-🤝 **Open for:**
+ **Open for:**
 
 `Web Development` · `Mobile Development` · `AI Research` · `Machine Learning` · `Software Engineering` · `Open Source`
 
@@ -74,7 +74,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-# 🧠 AI • ML • COMPUTER VISION
+#  AI • ML • COMPUTER VISION
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Research-0e75b6?style=for-the-badge&logo=openai&logoColor=white" />
@@ -93,9 +93,9 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
-## 🐍 Languages
+##  Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c&theme=dark" />
@@ -103,7 +103,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-## 🎨 Front-End
+##  Front-End
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css,vite&theme=dark" />
@@ -120,7 +120,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-## ⚙️ Backend & API
+##  Backend & API
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring&theme=dark" />
@@ -136,7 +136,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
@@ -149,7 +149,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-# 🤖 AI & Data Science
+#  AI & Data Science
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
@@ -173,7 +173,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-# 📊 Data Analytics & Visualization
+#  Data Analytics & Visualization
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
@@ -189,7 +189,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-# 🧪 Machine Learning Models
+#  Machine Learning Models
 
 <p align="center">
   <img src="https://img.shields.io/badge/ResNet-50-EE4C2C?style=for-the-badge" />
@@ -206,7 +206,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-# 🔬 Research Interests
+#  Research Interests
 
 <table align="center">
   <tr>
@@ -235,7 +235,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 <!--                    CONNECT & STATS                        -->
 <!-- ========================================================= -->
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://github.com/Kkhalidbinmostafahridoy">
@@ -251,7 +251,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-## 💰 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <p align="center">
   <!-- GitHub Stats Card -->
@@ -267,7 +267,7 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kkhalidbinmostafahridoy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
