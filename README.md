@@ -45,7 +45,7 @@
 
 Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 🇧🇩.
 
-🛠️ I build scalable web and mobile applications, combining creativity and logic with clean code and modern frameworks.
+ I build scalable web and mobile applications, combining creativity and logic with clean code and modern frameworks.
 
  **What I do:**
 
