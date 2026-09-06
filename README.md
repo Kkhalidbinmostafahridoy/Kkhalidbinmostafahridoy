@@ -285,6 +285,6 @@ Hello! I'm **Hridoy**, a passionate Developer and AI enthusiast from Bangladesh 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built%20with-❤️-0e75b6?style=for-the-badge" alt="Built with Love" />
-  <img src="https://img.shields.io/badge/Made%20by-HearT-111827?style=for-the-badge&logo=github&logoColor=white" alt="Made by HearT " />
+  <img src="https://img.shields.io/badge/Made%20by-HearT-111827?style=for-the-badge&logo=github&logoColor=white" alt="Made by HearTj-16.22 " />
 </p>
 ```
